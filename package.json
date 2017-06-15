@@ -1,0 +1,22 @@
+{
+  "name": "jquery-init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thearasengkh/jquery-init.git"
+  },
+  "author": "Theara Seng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thearasengkh/jquery-init/issues"
+  },
+  "homepage": "https://github.com/thearasengkh/jquery-init#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
